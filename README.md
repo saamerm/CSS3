@@ -2,6 +2,13 @@
 ++++++++++
 A
 ============
+/*FontSquirrel ->Most popular->Very long procedure, download webkit. Install the code on your computer....
+fonts.google.com best place to get fonts. Roboto, second icon (Quick code), Bold 700 and alternate ones above.
+Take the html code and place it in the <head>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,500,300' rel='stylesheet' type='text/css'> </head>
+and the style sheet and put it in your CSS code.
+h1,h2,h3,p,li,a { font-family: 'Roboto', Arial, serif; font-weight: 1000; }
+Google Hosts and Licenses it for free*/
 
 ===========
 B
